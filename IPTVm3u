@@ -1253,3 +1253,6 @@ http://39.130.202.81:6610/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
 http://39.130.202.81:6610/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
 #EXTINF:-1 group-title="玉溪移动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png",哈哈炫动
 http://39.130.202.81:6610/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
+#EXTINF:-1 group-title="01" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",广东翡翠台
+http://astream.apk1088.com:18888/channel.php?id=1350_4500&LTV/hls.smil.m3u8
+
