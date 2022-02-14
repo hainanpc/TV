@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,好莱坞影院①
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 ,好莱坞影院②
+http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
 #EXTINF:-1,欢笑剧场4K
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1,江苏4K测试
@@ -845,23 +849,9 @@ http://103.140.229.13/BOBO/bibi.php?id=21571201
 http://103.140.229.13/BOBO/bibi.php?id=23318768
 #EXTINF:-1 ,橙子影视4
 http://103.140.229.13/BOBO/bibi.php?id=23320714
-#EXTINF:-1 ,星光视界1
-http://106.53.212.251/daili/yy.php?id=1353422557
-#EXTINF:-1 ,星光视界2
-http://103.140.229.13/BOBO/bibi.php?id=23152385
-#EXTINF:-1 ,星光视界3
-https://65537ff319007c0310e1b87d7061588a.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_670235113.m3u8
-#EXTINF:-1 ,星光视界4
-http://103.140.229.13/BOBO/bibi.php?id=23132792
 #EXTINF:-1 ,星光视界5
 http://zzy789.xyz/douyu1.php?id=7178622
-#EXTINF:-1 ,星光影视6
-http://103.140.229.13/BOBO/bibi.php?id=22607022
 #EXTINF:-1 ,华影院
 http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
 #EXTINF:-1 ,电影院
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1 ,好莱坞影院①
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 ,好莱坞影院②
-http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
