@@ -5,6 +5,22 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
 #EXTINF:-1,欢笑剧场4K
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 ,动作电影
+http://ott.js.chinamobile.com/TVOD/3/224/3221227606/index.m3u8
+#EXTINF:-1 ,军旅剧场
+http://ott.js.chinamobile.com/TVOD/3/224/3221227603/index.m3u8
+#EXTINF:-1 ,古装剧场
+http://ott.js.chinamobile.com/TVOD/3/224/3221227542/index.m3u8
+#EXTINF:-1 ,惊悚悬疑
+http://ott.js.chinamobile.com/TVOD/3/224/3221227536/index.m3u8
+#EXTINF:-1 ,卫视电影台
+http://220.134.196.147:8578/ch07.m3u8
+#EXTINF:-1 ,纬来电影
+http://220.134.196.147:8579/ch01.m3u8
+#EXTINF:-1 ,龙华电影
+http://220.134.196.147:8581/ch01.m3u8
+#EXTINF:-1 ,好莱坞电影
+http://220.134.196.147:8554/ch01.m3u8
 #EXTINF:-1,江苏4K测试
 http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 #EXTINF:-1,江苏4K测试
@@ -791,59 +807,15 @@ http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
 #EXTINF:-1 ,MIGU追剧少女
 http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-#EXTINF:-1 ,卫视电影台
-http://59.125.101.187:8529/http/60.251.39.91:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 ,高清电影1
-http://117.148.179.160/PLTV/88888888/224/3221231652/index.m3u8
-#EXTINF:-1 ,高清电影台2
-http://117.148.179.160/PLTV/88888888/224/3221231679/index.m3u8
-#EXTINF:-1 ,高清电影台3
-http://117.148.179.160/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 ,高清电影台4
-http://117.148.179.160/PLTV/88888888/224/3221231688/index.m3u8
-#EXTINF:-1 ,高清电影台5
-http://117.148.179.160/PLTV/88888888/224/3221231699/index.m3u8
-#EXTINF:-1 ,高清电影台6
-http://117.148.179.160/PLTV/88888888/224/3221231709/index.m3u8
-#EXTINF:-1 ,高清 电影台7
-http://117.148.179.160/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1 ,高清电影台8
-http://117.148.179.160/PLTV/88888888/224/3221231787/index.m3u8
-#EXTINF:-1 ,凤凰中文
-http://27.47.68.130:808/hls/32/index.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://27.47.68.130:808/hls/33/index.m3u8
-#EXTINF:-1 ,凤凰香港
-http://27.47.68.130:808/hls/34/index.m3u8
-#EXTINF:-1 ,TVB星河
-http://27.47.68.130:808/hls/35/index.m3u8
-#EXTINF:-1 ,翡翠台
-http://27.47.68.130:808/hls/36/index.m3u8
-#EXTINF:-1 ,明珠台
-http://27.47.68.130:808/hls/37/index.m3u8
-#EXTINF:-1 ,龙祥电影
-http://27.47.68.130:808/hls/38/index.m3u8
-#EXTINF:-1 ,私人影院
-http://27.47.68.130:808/hls/57/index.m3u8
-#EXTINF:-1 ,东森电影
-http://27.47.68.130:808/hls/58/index.m3u8
-#EXTINF:-1 ,东森洋片
-http://27.47.68.130:808/hls/59/index.m3u8
-#EXTINF:-1 ,国产电影
-http://27.47.68.130:808/hls/61/index.m3u8
-#EXTINF:-1 ,天映经典
-http://27.47.68.130:808/hls/62/index.m3u8
 #EXTINF:-1 ,橙子影视1
 http://103.140.229.13/BOBO/bibi.php?id=23318788
 #EXTINF:-1 ,橙子影视2
 http://103.140.229.13/BOBO/bibi.php?id=21571201
-#EXTINF:-1 ,橙子影视3
-http://103.140.229.13/BOBO/bibi.php?id=23318768
-#EXTINF:-1 ,橙子影视4
-http://103.140.229.13/BOBO/bibi.php?id=23320714
-#EXTINF:-1 ,星光视界5
-http://zzy789.xyz/douyu1.php?id=7178622
 #EXTINF:-1 ,华影院
 http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
 #EXTINF:-1 ,电影院
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1 ,湖南电影
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
+#EXTINF:-1 ,爱情电影
+http://ott.js.chinamobile.com/TVOD/3/224/3221227548/index.m3u8
